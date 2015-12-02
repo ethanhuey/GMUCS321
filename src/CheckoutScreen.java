@@ -1,4 +1,10 @@
 
-public class CheckoutScreen {
+public class CheckoutScreen
+{
+	
+	public void checkoutScreen()
+	{
+		
+	}
 
 }
