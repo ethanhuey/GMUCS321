@@ -1,10 +1,4 @@
-
 <html>
-	<head>
-		<title>CS 321 Project</title>
-	</head>
-</html>
-
 <h1>GMU CS 321 Project</h1>
 
 <p>Each team of students is to implement a subset of the Hotel Reservation System, which
@@ -23,3 +17,4 @@ framework as described in this user guide. </p>
 	<p>Git repository for George Mason University CS321's project</p>
 </footer>
 
+</html>
