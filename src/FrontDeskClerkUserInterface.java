@@ -19,5 +19,10 @@ public class FrontDeskClerkUserInterface
 		String s1 = "";
 		return s1;
 	}
+	
+	public void login()
+	{
+		
+	}
 
 }
