@@ -1,4 +1,7 @@
 
-public class BankServer {
+public class BankServer extends Billing
+{
+	
+	
 
 }
