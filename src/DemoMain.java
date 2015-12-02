@@ -21,7 +21,7 @@ public class DemoMain
 		//parser to read file
 		Parser parser = null;
 		try {
-			parser = new Parser("person.txt");
+			parser = new Parser("../customer.txt");
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
