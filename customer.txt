@@ -1,19 +1,26 @@
 @1
-Bernard L. Silver
-3777 Franklin Avenue, Austin, TX 78401
+Kimberly Perez
+2047 Ninja Island
+5
+10
 2
 3
 1
-2
-1
+MasterCard
+10/2020
+1234 2468 1357 6666
+
+@2
+Kimberly Perez
 Visa
-2/2016
-4716001921994146670
+10/2040
+1234 5678 0987 6543
+
+@3
+Kimberly Perez
+
+@4
 
 @5
- 
-@2
-Bernard L. Silver
- 
-@3
-Bernard L. Silver
+
+@6
